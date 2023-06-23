@@ -1,7 +1,7 @@
 # python_instacart
 
 ## About
-This repository contains analysis of Instacart customers'grocery shopping habits. The contents include the Python scripts I wrote to analyze the data, visualizations I created in Python and my final report with hand-crafted customer profiles and recommendations.
+This repository contains analysis of Instacart customers' grocery shopping habits. The contents include the Python scripts I wrote to analyze the data, visualizations I created in Python and my final report with hand-crafted customer profiles and recommendations.
 
 ## Objective
 The goal of this project was to analyze order data and customer demographics to produce insights about Instacart shopping habits and suggest new ways to segment customers through profiling. 
