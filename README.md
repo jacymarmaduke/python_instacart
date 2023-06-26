@@ -16,7 +16,7 @@ Career Foundry generated additional datasets containing mock product prices and 
 
 **Scripts:** Contains 18 Jupyter notebooks where I carried out data analysis. The scripts catalogue every step of the process, from data cleaning and wrangling to data visualization to the development of customer profiles.
 
-**Visualizations:** Contains seven data visualizations illustrating shopping patterns and two sets of indepentldy designed customer profiles. I created the visualizations using matplotlib and seaborn.
+**Visualizations:** Contains seven data visualizations illustrating shopping patterns and two sets of independently designed customer profiles. I created the visualizations using matplotlib and seaborn.
 
 **Findings and recommendations:** An Excel workbook containing the population flow for my analysis, a detailed record of data cleaning and wrangling, all my visualizations, answers to ad-hoc questions about the data and an account of my customer profiles and recommendations. 
 
